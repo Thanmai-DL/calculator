@@ -16,8 +16,12 @@
 }
 
 #display {
-    height: 100px;
+    height: 96px;
     background-color: #39FF14;
+    text-align: right;
+    font-weight: bolder;
+    font-size: 80px;
+    padding: 8px;
 }
 
 #clear {

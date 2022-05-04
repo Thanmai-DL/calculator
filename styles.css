@@ -32,13 +32,18 @@
     justify-content: flex-end;
 }
 
-.clr-btn, .num-btn, .op-btn{
+.c-btn, .ac-btn, .num-btn, .op-btn{
     padding: 6px;
     width: 64px;
     background-color: grey;
     font-weight: bolder;
     font-size: larger;
     border-radius: 8px;
+}
+
+.op-btn {
+    background-color: rgb(255, 136, 0);
+    border-color: rgb(255, 136, 0);
 }
 
 #box{
